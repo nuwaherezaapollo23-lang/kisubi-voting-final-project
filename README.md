@@ -45,3 +45,4 @@ The admin dashboard provides a quick overview of the election statistics, includ
 9. After the import completes, the system will be ready to use.
 
 #24DSIT0130W_kisubi_voting_system
+#24DSIT0130W_Kisubi_voting_system
